@@ -1,7 +1,6 @@
 # Reading Progress Bar
 
 Slim progress bar at the top of single posts, filling as the user scrolls.
-Accounts for the WordPress admin bar to avoid overlap.
 
 ## Installation
 
